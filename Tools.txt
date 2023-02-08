@@ -33,8 +33,6 @@ ketik ./userrecon.sh (sudah masuk direktori userrecon)
 cara menggunakan storm breaker (untuk mendapatkan lokasi orang)
 ketik  sudo python3 st.py
 
-
-
 cara menggunakan blackeye
 ketikkan sudo ./blackeye.sh (sudah di direktori)hidupkan ./ngrok http 8080
 
