@@ -1,39 +1,39 @@
 Ahmyth --> https://github.com/Morsmalleo/AhMyth/wiki/Source-Code-Setup:-Kali-Linux
 
-webkiller 
+webkiller---> https://github.com/ultrasecurity/webkiller
 buka python3 webkiller.py
 
-cara pakai evillimiter (membatasi pemakaian di jaringan yang sama)
+cara pakai evillimiter (membatasi pemakaian di jaringan yang sama)--> https://github.com/bitbrute/evillimiter
 ketik sudo evillimiter
 
-ghost (root) untuk hack handphone
+ghost (root) untuk hack handphone ---> https://github.com/EntySec/Ghost
 ketik ghost
 
-Sherlock
+Sherlock ---> https://github.com/sherlock-project/sherlock
 Ketik : python3 sherlock username
 
 Cara Menggunakan Decoding dan Encoding
 ketik echo "kata" | base64  ---> untuk decoding
 ketik echo "kata yang sudah di decoding" | base64 -d
 
-Airgeddon (untuk menembus wifi publik) (root)
+Airgeddon (untuk menembus wifi publik) (root)---> https://github.com/v1s1t0r1sh3r3/airgeddon
 ketik bash.airgerddon.sh
 
-Xeroploit (melihat orang di satu jaringan)
+Xeroploit (melihat orang di satu jaringan) ---> https://github.com/LionSec/xerosploit
 ketik python3 xeroploit.py (dalam akses root)
 untuk mendapatkan username sesama satu jaringan
 
-cara menggunakan Ositgram
+cara menggunakan Ositgram ---> https://github.com/Datalux/Osintgram
 masuk ke directory ositgram (ketik cd Osintgram)
 ketik python3 main.py username 
 
-Cara menggunakan userrecon ( tools untuk melihat username)
+Cara menggunakan userrecon ( tools untuk melihat username) ---> https://github.com/issamelferkh/userrecon
 ketik ./userrecon.sh (sudah masuk direktori userrecon)
 
-cara menggunakan storm breaker (untuk mendapatkan lokasi orang)
+cara menggunakan storm breaker (untuk mendapatkan lokasi orang)---> https://github.com/ultrasecurity/Storm-Breaker
 ketik  sudo python3 st.py
 
-cara menggunakan blackeye
+cara menggunakan blackeye ----> https://github.com/An0nUD4Y/blackeye
 ketikkan sudo ./blackeye.sh (sudah di direktori)hidupkan ./ngrok http 8080
 
 cara menggunakan pyphisher (sama2 phising) lebih powerfull
