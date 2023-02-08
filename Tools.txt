@@ -36,13 +36,13 @@ ketik  sudo python3 st.py
 cara menggunakan blackeye ----> https://github.com/An0nUD4Y/blackeye
 ketikkan sudo ./blackeye.sh (sudah di direktori)hidupkan ./ngrok http 8080
 
-cara menggunakan pyphisher (sama2 phising) lebih powerfull
+cara menggunakan pyphisher (sama2 phising) lebih powerfull ----> https://github.com/KasRoudra/PyPhisher
 ketikkan python3 pyphiser.py (sudah masuk direktori)
 
-cara pakai seeker
+cara pakai seeker ---> https://github.com/thewhiteh4t/seeker
 ketik python3 seeker.py ( untuk melihat lokasi orang)
 
-cara menggunakan zphisher 
+cara menggunakan zphisher ----> https://github.com/htr-tech/zphisher
 ketik bash zphisher.sh (untuk pissing)
 
 
