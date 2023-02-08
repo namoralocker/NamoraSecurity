@@ -1,0 +1,50 @@
+Ahmyth --> https://github.com/Morsmalleo/AhMyth/wiki/Source-Code-Setup:-Kali-Linux
+
+webkiller 
+buka python3 webkiller.py
+
+cara pakai evillimiter (membatasi pemakaian di jaringan yang sama)
+ketik sudo evillimiter
+
+ghost (root) untuk hack handphone
+ketik ghost
+
+Sherlock
+Ketik : python3 sherlock username
+
+Cara Menggunakan Decoding dan Encoding
+ketik echo "kata" | base64  ---> untuk decoding
+ketik echo "kata yang sudah di decoding" | base64 -d
+
+Airgeddon (untuk menembus wifi publik) (root)
+ketik bash.airgerddon.sh
+
+Xeroploit (melihat orang di satu jaringan)
+ketik python3 xeroploit.py (dalam akses root)
+untuk mendapatkan username sesama satu jaringan
+
+cara menggunakan Ositgram
+masuk ke directory ositgram (ketik cd Osintgram)
+ketik python3 main.py username 
+
+Cara menggunakan userrecon ( tools untuk melihat username)
+ketik ./userrecon.sh (sudah masuk direktori userrecon)
+
+cara menggunakan storm breaker (untuk mendapatkan lokasi orang)
+ketik  sudo python3 st.py
+
+
+
+cara menggunakan blackeye
+ketikkan sudo ./blackeye.sh (sudah di direktori)hidupkan ./ngrok http 8080
+
+cara menggunakan pyphisher (sama2 phising) lebih powerfull
+ketikkan python3 pyphiser.py (sudah masuk direktori)
+
+cara pakai seeker
+ketik python3 seeker.py ( untuk melihat lokasi orang)
+
+cara menggunakan zphisher 
+ketik bash zphisher.sh (untuk pissing)
+
+
